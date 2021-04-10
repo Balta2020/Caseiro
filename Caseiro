@@ -1,0 +1,166 @@
+#EXTM3U
+#EXTINF:0 tvg-id="SuperSport1.al" group-title="Channels",SuperSport 1
+http://alontv.info:8000/live/ontvtest/172722/78.ts
+#EXTINF:0 tvg-id="SuperSport2.al" group-title="Channels",SuperSport 2
+http://alontv.info:8000/live/ontvtest/172722/79.ts
+#EXTINF:0 tvg-id="SuperSport3.al" group-title="Channels",SuperSport 3
+http://alontv.info:8000/live/ontvtest/172722/80.ts
+#EXTINF:0 tvg-id="SuperSport4.al" group-title="Channels",SuperSport 4
+http://alontv.info:8000/live/ontvtest/172722/81.ts
+#EXTINF:0 tvg-id="SuperSport5.al" group-title="Channels",SuperSport 5
+http://alontv.info:8000/live/ontvtest/172722/82.ts
+#EXTINF:0 tvg-id="SuperSport6.al" group-title="Channels",SuperSport 6
+http://alontv.info:8000/live/ontvtest/172722/83.ts
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Channels",Tring Sport News
+http://alontv.info:8000/live/ontvtest/172722/92.ts
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Channels",Tring Sport 1
+http://alontv.info:8000/live/ontvtest/172722/93.ts
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Channels",Tring Sport 2
+http://alontv.info:8000/live/ontvtest/172722/94.ts
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Channels",Tring Sport 3
+http://alontv.info:8000/live/ontvtest/172722/95.ts
+#EXTINF:0 tvg-id="TS4HD.al" group-title="Channels",Tring Sport 4
+http://alontv.info:8000/live/ontvtest/172722/96.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kujtesa Sport 1
+http://alontv.info:8000/live/ontvtest/172722/179.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kujtesa Sport 2
+http://alontv.info:8000/live/ontvtest/172722/180.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kujtesa Sport 3
+http://alontv.info:8000/live/ontvtest/172722/181.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kujtesa Sport 4
+http://alontv.info:8000/live/ontvtest/172722/182.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kujtesa Sport 5
+http://alontv.info:8000/live/ontvtest/172722/258.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV Fontana
+http://alontv.info:8000/live/ontvtest/172722/341.ts
+#EXTINF:0 tvg-id="esp" group-title="Channels",Eurosport
+http://alontv.info:8000/live/ontvtest/172722/121.ts
+#EXTINF:0 tvg-id="esp2" group-title="Channels",Eurosport 2
+http://alontv.info:8000/live/ontvtest/172722/122.ts
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Channels",DE: Sky Sport 1
+http://alontv.info:8000/live/ontvtest/172722/190.ts
+#EXTINF:0 tvg-id="SkySport2.de" group-title="Channels",DE: Sky Sport 2
+http://alontv.info:8000/live/ontvtest/172722/191.ts
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="Channels",DE: Sky Bundesliga 1
+http://alontv.info:8000/live/ontvtest/172722/192.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: Dazn 1
+http://alontv.info:8000/live/ontvtest/172722/579.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: Dazn 2
+http://alontv.info:8000/live/ontvtest/172722/580.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: Eurosport 1
+http://alontv.info:8000/live/ontvtest/172722/885.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: Eurosport 2 HD Xtra
+http://alontv.info:8000/live/ontvtest/172722/886.ts
+#EXTINF:0 tvg-id="Sport1HD.de" group-title="Channels",DE: Sport1
+http://alontv.info:8000/live/ontvtest/172722/925.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports NFL HD UK
+http://alontv.info:8000/live/ontvtest/172722/142.ts
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",Sky Sports F1 UK
+http://alontv.info:8000/live/ontvtest/172722/152.ts
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",Sky Sports Football HD UK
+http://alontv.info:8000/live/ontvtest/172722/139.ts
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",Sky Sports Golf HD UK
+http://alontv.info:8000/live/ontvtest/172722/141.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Main Events HD UK
+http://alontv.info:8000/live/ontvtest/172722/140.ts
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",Sky Sports News UK
+http://alontv.info:8000/live/ontvtest/172722/151.ts
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",Sky Sports Premier League HD UK
+http://alontv.info:8000/live/ontvtest/172722/138.ts
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1 HD
+http://alontv.info:8000/live/ontvtest/172722/627.ts
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",Sport TV 2 HD
+http://alontv.info:8000/live/ontvtest/172722/628.ts
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",Sport TV 3 HD
+http://alontv.info:8000/live/ontvtest/172722/629.ts
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",Sport TV 4 HD
+http://alontv.info:8000/live/ontvtest/172722/630.ts
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",Sport TV 5 HD
+http://alontv.info:8000/live/ontvtest/172722/631.ts
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",FR: BeIN Sport 1
+http://alontv.info:8000/live/ontvtest/172722/403.ts
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",FR: BeIN Sport 2
+http://alontv.info:8000/live/ontvtest/172722/404.ts
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",FR: BeIN Sport 3
+http://alontv.info:8000/live/ontvtest/172722/405.ts
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="Channels",beIN Sport 1 TR
+http://alontv.info:8000/live/ontvtest/172722/524.ts
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="Channels",beIN Sport 2 TR
+http://alontv.info:8000/live/ontvtest/172722/525.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="Channels",beIN Sport 3 TR
+http://alontv.info:8000/live/ontvtest/172722/526.ts
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Channels",FR: RMC Sport 1 HD
+http://alontv.info:8000/live/ontvtest/172722/889.ts
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Channels",FR: RMC Sport 2 HD
+http://alontv.info:8000/live/ontvtest/172722/890.ts
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Channels",FR: RMC Sport 3 HD
+http://alontv.info:8000/live/ontvtest/172722/891.ts
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Channels",FR: RMC Sport 4 HD
+http://alontv.info:8000/live/ontvtest/172722/892.ts
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",FR: Canal + Sport HD
+http://alontv.info:8000/live/ontvtest/172722/888.ts
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",BT Sport 1
+http://alontv.info:8000/live/ontvtest/172722/156.ts
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",BT Sport 2
+http://alontv.info:8000/live/ontvtest/172722/157.ts
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",BT Sport 3
+http://alontv.info:8000/live/ontvtest/172722/158.ts
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",BT Sport ESPN
+http://alontv.info:8000/live/ontvtest/172722/159.ts
+#EXTINF:0 tvg-id="SportKlub1.hr" group-title="Channels",Sport Klub 1
+http://alontv.info:8000/live/ontvtest/172722/112.ts
+#EXTINF:0 tvg-id="SportKlub2.rs" group-title="Channels",Sport Klub 2
+http://alontv.info:8000/live/ontvtest/172722/113.ts
+#EXTINF:0 tvg-id="SportKlub3.hr" group-title="Channels",Sport Klub 3
+http://alontv.info:8000/live/ontvtest/172722/114.ts
+#EXTINF:0 tvg-id="SportKlub4.rs" group-title="Channels",Sport Klub 4
+http://alontv.info:8000/live/ontvtest/172722/153.ts
+#EXTINF:0 tvg-id="SportKlub5.rs" group-title="Channels",Sport Klub 5
+http://alontv.info:8000/live/ontvtest/172722/115.ts
+#EXTINF:0 tvg-id="SportKlub6.rs" group-title="Channels",Sport Klub 6
+http://alontv.info:8000/live/ontvtest/172722/116.ts
+#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="Channels",Arena Sport 1 HR
+http://alontv.info:8000/live/ontvtest/172722/104.ts
+#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="Channels",Arena Sport 2 HR
+http://alontv.info:8000/live/ontvtest/172722/105.ts
+#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="Channels",Arena Sport 3 HR
+http://alontv.info:8000/live/ontvtest/172722/106.ts
+#EXTINF:0 tvg-id="ArenaSport4.hr" group-title="Channels",Arena Sport 4 HR
+http://alontv.info:8000/live/ontvtest/172722/188.ts
+#EXTINF:0 tvg-id="ArenaSport5.hr" group-title="Channels",Arena Sport 5 HR
+http://alontv.info:8000/live/ontvtest/172722/193.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 1 RS
+http://alontv.info:8000/live/ontvtest/172722/107.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 2 RS
+http://alontv.info:8000/live/ontvtest/172722/108.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 3 RS
+http://alontv.info:8000/live/ontvtest/172722/109.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 4 RS
+http://alontv.info:8000/live/ontvtest/172722/110.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 5 RS
+http://alontv.info:8000/live/ontvtest/172722/111.ts
+#EXTINF:0 tvg-id="CanalplusSports.pl" group-title="Channels",Canal + Sport HD
+http://alontv.info:8000/live/ontvtest/172722/625.ts
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Channels",Canal + Sport 2 HD
+http://alontv.info:8000/live/ontvtest/172722/626.ts
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",Eleven Sports 1 HD
+http://alontv.info:8000/live/ontvtest/172722/621.ts
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",Eleven Sports 2 HD
+http://alontv.info:8000/live/ontvtest/172722/622.ts
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",Eleven Sports 3 HD
+http://alontv.info:8000/live/ontvtest/172722/623.ts
+#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="Channels",Eleven Sports 4 HD
+http://alontv.info:8000/live/ontvtest/172722/624.ts
+#EXTINF:0 tvg-id="ntv-football-1" group-title="Channels",Match! Futbol 1 HD
+http://alontv.info:8000/live/ontvtest/172722/952.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Match! Futbol 2 HD
+http://alontv.info:8000/live/ontvtest/172722/953.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Match! Futbol 3 HD
+http://alontv.info:8000/live/ontvtest/172722/954.ts
+#EXTINF:0 tvg-id="DiemaSport1.bg" group-title="Channels",Diema Sport HD
+http://alontv.info:8000/live/ontvtest/172722/921.ts
+#EXTINF:0 tvg-id="DiemaSport2.bg" group-title="Channels",Diema Sport 2 HD
+http://alontv.info:8000/live/ontvtest/172722/922.ts
+#EXTINF:0 tvg-id="DigiSport1.hu" group-title="Channels",Digi Sport 1 HD
+http://alontv.info:8000/live/ontvtest/172722/893.ts
+#EXTINF:0 tvg-id="DigiSport2.hu
